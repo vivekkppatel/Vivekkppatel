@@ -63,7 +63,7 @@ export function About() {
               (Class of 2028). I build AI systems and quantitative finance applications.
             </p>
             <p className="text-sm text-neutral-600 dark:text-neutral-400 leading-relaxed mb-6">
-              Outside of work: tennis, poker, and photography.
+              Outside of work: tennis, pickleball, cooking, photography, music, and hiking.
             </p>
             <div className="space-y-1">
               <p className="text-xs text-neutral-400 dark:text-neutral-500 font-medium uppercase tracking-widest mb-2">
